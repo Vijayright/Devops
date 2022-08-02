@@ -10,3 +10,6 @@ Kubernetes
 Ansible
 terraform
 
+AWS
+Azure
+GCP
