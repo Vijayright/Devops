@@ -7,4 +7,6 @@ Jenkins- Integration tool
 Maven- Buid tool
 Docker
 Kubernetes
+Ansible
+terraform
 
